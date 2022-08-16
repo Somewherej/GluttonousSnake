@@ -1,2 +1,2 @@
 # GluttonousSnake
-基于pyzero
+基于pyzero的贪吃蛇
